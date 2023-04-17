@@ -1,0 +1,1 @@
+radiator-number)*pow(number,2
